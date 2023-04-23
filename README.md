@@ -12,4 +12,8 @@ Click on the image below to see a video.
 
 [![Watch the video](https://img.youtube.com/vi/yVkdfJ9PkRQ/hqdefault.jpg)](https://youtu.be/yVkdfJ9PkRQ)
 
-https://www.youtube.com/watch?v=yVkdfJ9PkRQ
+An interesting part of modeling this came in the form of a small angle approximation.  Here you can see the difference in complexity of using the full restoring force (dependent on amplitude) vs. the non-amplitude dependent approximation.
+
+<img src="https://github.com/combsbt/Mathematica/blob/main/pendula.png?raw=true">
+
+The difference in results can be seen in the notebook file linked above.
